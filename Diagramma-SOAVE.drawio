@@ -348,7 +348,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXk0x4wXGqgigOSxniAA-79" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-1116" y="340" width="160" height="112" as="geometry" />
+          <mxGeometry x="-1092" y="352" width="160" height="112" as="geometry" />
         </mxCell>
         <mxCell id="oXk0x4wXGqgigOSxniAA-80" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oXk0x4wXGqgigOSxniAA-79" target="oXk0x4wXGqgigOSxniAA-32">
           <mxGeometry relative="1" as="geometry" />
