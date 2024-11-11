@@ -1,2 +1,2 @@
 # drawschema
-media-connection
+HW architecture
